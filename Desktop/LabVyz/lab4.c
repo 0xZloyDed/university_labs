@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 void key(int N){
-    
+	// First change    
     int bin = 0, k = 1, count = 0;
     int N2 = N;
 
